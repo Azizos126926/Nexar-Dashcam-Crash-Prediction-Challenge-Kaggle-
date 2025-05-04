@@ -3,6 +3,7 @@
 
 - **Top 40 out of 280 participants**
 - **Top 17% overall**
+- Worked on it only last 5 days of the 3 months period for the challenge
   
 ## 🏁 Competition Overview
 
