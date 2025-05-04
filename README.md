@@ -1,5 +1,9 @@
 # Nexar Dashcam Crash Prediction Challenge (Kaggle)
+## 🏆 Results
 
+- **Top 40 out of 280 participants**
+- **Top 17% overall**
+  
 ## 🏁 Competition Overview
 
 This repository contains my solution to the [Nexar Dashcam Crash Prediction Challenge](https://www.kaggle.com/competitions/nexar-collision-prediction/overview), a Kaggle competition focused on **anticipating traffic accidents** from dashcam video footage.
@@ -58,10 +62,7 @@ This solution combines both spatial and temporal modeling using a two-branch arc
 - **Ensemble**:
   - Combine predictions from both branches using a **stacking ensemble**, improving generalization over baseline models
 
-## 🏆 Results
 
-- **Top 40 out of 280 participants**
-- **Top 17% overall**
 
 ---
 
